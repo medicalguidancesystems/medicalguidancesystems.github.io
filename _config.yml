@@ -1,0 +1,11 @@
+# Site settings
+title: Medical Guidance Systems
+email: dhallahan@medicalguidancesystems.com
+description: > # this means to ignore newlines until "baseurl:"
+  Medical Guidance Systems develops antibodies and drug 
+  delivery systems targeted specifically to cancer.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://medicalguidancesystems.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
