@@ -2,7 +2,7 @@
 layout: post
 title:  "Receives Funding from NCI to Develop a Peptide to Treat Cancer"
 date:   2015-01-01 14:39:23
-categories: peptide funding
+categories: news
 ---
 
 MEDICAL GUIDANCE SYTEMS receives funding from the National Cancer Institute to develop a peptide to treat cancer. The Chief Scientific Officer at MGS, Dennis Hallahan, MD, states “This research is the study of new paradigms in both the treatment of cancer and cancer drug development. This platform technology will markedly expand the number of cancer specific surface receptors and antigens that can be targeted for drug delivery using peptide ligands. The general principle of this new technology is that cancer cells respond to ionizing radiation through a stress response that involves membrane transport and presentation of stress proteins on the cell surface. These proteins are normally sequestered within the cancer cell but are transported to the surface in response to oxidative stress and DNA strand breaks
